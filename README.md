@@ -3,8 +3,8 @@
 
 A fully functioning blog: 
 
-In this application, user will be able to create, update, and delete blog posts. Posts will have categories that can be used to sort them. Finally, users will be able to leave comments on posts.
+In this application, user can create, update, and delete blog posts. Posts will have categories that can be used to sort them. Finally, users can comments on posts.
 
 A portfolio of your work: 
 
-Showcase list of projects here. You’ll build a gallery style page with clickable links to projects that you’ve completed.
+Projects are listed here. A gallery style page with clickable links to projects that the user has completed. On clicking a particular project, the webpasge containing the whole description of that particular project will render.
