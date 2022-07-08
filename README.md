@@ -1,5 +1,5 @@
 # Django Part 1: Portfolio App with Project lists and Blog
-
+(using Django Framework)
 
 A fully functioning blog: 
 
