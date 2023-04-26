@@ -1,5 +1,6 @@
 # Django: Portfolio App with Project lists and Blog
-(using Django Framework)
+
+Developed a portfolio app consisting of a fully functional blog and list of projects using Django framework. 
 
 A fully functioning blog: 
 
